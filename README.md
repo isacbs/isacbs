@@ -2,7 +2,7 @@
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0754b6&size=35&center=true&vCenter=true&width=1000&lines=Oi!;Meu+nome+é+Isadora+Caetano;Tenho+19+anos;Sou+programadora;Curso+Sistemas+De+Informação;Estou+sempre+em+busca+de+novos+desafios;Para+expandir+meu+conhecimento;Seja+Bem+Vindo(a)!)](https://git.io/typing-svg)
   
-   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0563b6&size=35&center=true&vCenter=true&width=1000&lines=Hello!;My+name+is+Isadora+Caetano;I'm+19+years+old;I+am+a+programmer;I'm+currently+studyding+Information+Systems;I'm+always+searching+for+new+challenges;To+expand+my+knowledge;Welcome+to+my+profile!)](https://git.io/typing-svg)
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6aa9ff&size=35&center=true&vCenter=true&width=1000&lines=Hello!;My+name+is+Isadora+Caetano;I'm+19+years+old;I+am+a+programmer;I'm+currently+studyding+Information+Systems;I'm+always+searching+for+new+challenges;To+expand+my+knowledge;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
   <div align="center">  
     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=isacbs&show_icons=true&count_private=true&hide_border=true&title_color=3a8ade&icon_color=DC143C&text_color=c9d1d9&bg_color=0d1117" alt="IsaCBS Github stats" /> 
